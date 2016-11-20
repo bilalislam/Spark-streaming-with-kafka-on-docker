@@ -1,0 +1,11 @@
+compile
+run
+package
+sbt compile
+exit
+update
+package
+assembly-package-dependency
+boot2docker
+exixt
+:q

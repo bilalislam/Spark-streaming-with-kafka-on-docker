@@ -1,0 +1,19 @@
+[0m[[0minfo[0m] [0mPackaging /Users/ninjafx/Downloads/StreamingData/target/scala-2.11/streaming_data_2.11-1.0.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	spark/examples/StreamIt$$anonfun$4.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ninjafx/Downloads/StreamingData/target/scala-2.11/classes/spark/examples/StreamIt$$anonfun$4.class[0m
+[0m[[0mdebug[0m] [0m	spark/examples/StreamIt$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ninjafx/Downloads/StreamingData/target/scala-2.11/classes/spark/examples/StreamIt$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	spark/examples[0m
+[0m[[0mdebug[0m] [0m	  /Users/ninjafx/Downloads/StreamingData/target/scala-2.11/classes/spark/examples[0m
+[0m[[0mdebug[0m] [0m	spark/examples/StreamIt.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ninjafx/Downloads/StreamingData/target/scala-2.11/classes/spark/examples/StreamIt.class[0m
+[0m[[0mdebug[0m] [0m	spark/examples/StreamIt$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ninjafx/Downloads/StreamingData/target/scala-2.11/classes/spark/examples/StreamIt$.class[0m
+[0m[[0mdebug[0m] [0m	spark/examples/StreamIt$$anonfun$3.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ninjafx/Downloads/StreamingData/target/scala-2.11/classes/spark/examples/StreamIt$$anonfun$3.class[0m
+[0m[[0mdebug[0m] [0m	spark/examples/StreamIt$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ninjafx/Downloads/StreamingData/target/scala-2.11/classes/spark/examples/StreamIt$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	spark[0m
+[0m[[0mdebug[0m] [0m	  /Users/ninjafx/Downloads/StreamingData/target/scala-2.11/classes/spark[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m
